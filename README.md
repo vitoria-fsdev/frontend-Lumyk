@@ -1,3 +1,11 @@
+Este projeto consiste em uma plataforma integrada para venda de livros, onde gerenciei tanto a interface do usuário quanto a inteligência do servidor.
+
+Arquitetura Backend: Desenvolvida em Python com o framework Flask, utilizando Flask-RESTX para a construção de uma API escalável. Implementei a persistência de dados e migrações automáticas de banco de dados, além de rotinas de segurança com Bcrypt para proteção de dados de usuários.
+
+Interface Mobile: Construída com React Native e Expo, focada em usabilidade. Desenvolvi funcionalidades de filtragem avançada por gênero, estado e título, além de um sistema de navegação fluido entre o catálogo e os detalhes técnicos de cada obra.
+
+Integração e DevOps: Configuração de ambiente de desenvolvimento via variáveis de ambiente (.env) e integração via Axios para consumo de API em rede local.
+
 # Lumyk - Guia de Execução do Projeto (Frontend + Backend)
 
 Este é o guia para rodar o projeto **Lumyk**, que consiste em um frontend (React Native com Expo) e um backend (Flask com Python).
