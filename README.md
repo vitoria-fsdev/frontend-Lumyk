@@ -15,7 +15,7 @@ Este é o guia para rodar o projeto **Lumyk**, que consiste em um frontend (Reac
 Crie uma pasta chamada `lumyk` (ou qualquer nome de sua preferência), abra ela no VS Code e execute os seguintes comandos dentro dessa pasta para clonar os dois repositórios:
 
 ```bash
-git clone https://github.com/rannyzita/frontend-Lumyk
+git clone https://github.com/vitoria-fsdev/frontend-Lumyk
 
 git clone https://github.com/Karinyleandro/Lumyk---backend
 ```
